@@ -1,2 +1,5 @@
 # odin-recipes
-Recipe view for The Odin Project
+Basic HTML site that contains a list of recipes.
+
+## Hosted Website
+https://dgreenheck.github.io/odin-recipes/
